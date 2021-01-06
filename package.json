@@ -1,0 +1,23 @@
+  "version": "0.0.1",
+  "description": "A simple Node app built on Express, instantly up and running.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "discord.js": "^12.5.1",
+    "ytdl-core": "^4.4.0",
+    "ytpl": "^2.0.4",
+    "discord.js-musicbot-v2": "^13.9.1",
+    "dispatcher": "^0.0.2",
+    "@discordjs/opus": "^0.3.2",
+    "opusscript": "^0.0.7",
+    "ffmpeg-static": "^4.2.7"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
